@@ -16,8 +16,8 @@
     "mocha": "^5.0.4"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.2",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
     "file-type": "^7.6.0"
   }
 }
